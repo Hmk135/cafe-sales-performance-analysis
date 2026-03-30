@@ -15,7 +15,8 @@ The raw data contained missing values, incorrect data types, and garbage text. U
 * Exported the clean dataset to `clean_cafe_sales.csv` for visualization.
 
 ##  Step 2: Data Visualization (Power BI)
-![Cafe Sales Dashboard](<img width="1137" height="709" alt="Screenshot 2026-03-30 125236" src="https://github.com/user-attachments/assets/2996d22d-e009-413a-89e7-096f51d74f14" />)
+![Cafe Sales Dashboard](<img width="1137" height="709" alt="PowerBI" src="https://github.com/user-attachments/assets/2e6bf4f4-b8b4-4e21-8985-ca06b29c9572" />)
+
 
 
 I built an interactive dashboard to answer key business questions:
